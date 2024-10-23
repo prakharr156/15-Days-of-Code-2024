@@ -7,5 +7,5 @@
  [Accepted Submission](https://codeforces.com/contest/1917/submission/287491019)
 - Q2. [Collecting game](https://codeforces.com/contest/1904/submission/287506919)
 
-I gave Contest on CodeChef [START157](https://www.codechef.com/START157C?order=desc&sortBy=successful_submissions)
-Watched Striver Tree Series L26 & L27
+- I gave Contest on CodeChef [START157](https://www.codechef.com/START157C?order=desc&sortBy=successful_submissions)
+- Watched Striver Tree Series L26 & L27
