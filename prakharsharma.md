@@ -28,8 +28,8 @@ Tried few Problems of TLE Sheet of 1100 Rating
 25 October 2024
 
 Tried few Problems of previous contests
-- Q1. First got TLE and then optimised it [Profitable Interest Rate](https://codeforces.com/contest/2024/submission/287822357)
-- Q2. Got runtime error due to not using long long and then corrected it [Buying Lemonade](https://codeforces.com/contest/2024/submission/287829082)
+- Q1. Profitable Interest Rate ...First got TLE [TLE submission](https://codeforces.com/contest/2024/submission/287822357) and then optimised it[Aceepted submission](https://codeforces.com/contest/2024/submission/287822823)
+- Q2. Buying Lemonade...Got runtime error due to not using long long [Error Submission](https://codeforces.com/contest/2024/submission/287828869) and then corrected it [Accepted Submission](https://codeforces.com/contest/2024/submission/287829082)
 - Q3 [Gift from Orangutan](https://codeforces.com/contest/2030/submission/287895759)
 - Q4. [Minimise Oneness](https://codeforces.com/contest/2030/submission/287900416)
 - Q5. tried question but got wrong answer on test 2 , will think of another approach now after 1-2 days [A true Battle](https://codeforces.com/contest/2030/submission/287907684)
