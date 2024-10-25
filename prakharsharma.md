@@ -22,3 +22,16 @@ Tried few Problems of TLE Sheet of 1100 Rating
    [B](https://codeforces.com/contest/2033/submission/287756806) <br>
   Solved 2 Problems <br>
 - Watched Striver Tree Series L28
+
+
+### Day 3
+25 October 2024
+
+Tried few Problems of previous contests
+- Q1. First got TLE and then optimised it [Profitable Interest Rate](https://codeforces.com/contest/2024/submission/287822357)
+- Q2. Got runtime error due to not using long long and then corrected it [Buying Lemonade](https://codeforces.com/contest/2024/submission/287829082)
+- Q3 [Gift from Orangutan](https://codeforces.com/contest/2030/submission/287895759)
+- Q4. [Minimise Oneness](https://codeforces.com/contest/2030/submission/287900416)
+- Q5. tried question but got wrong answer on test 2 , will think of another approach now after 1-2 days [A true Battle](https://codeforces.com/contest/2030/submission/287907684)
+- Q6. [The legend of Freya the frog](https://codeforces.com/contest/2009/submission/287946263)
+<br>
