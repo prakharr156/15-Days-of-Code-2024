@@ -39,7 +39,7 @@ Tried few Problems of previous contests
 ### Day 4
 26 October 2024
 
-Tried few Problems on codeforces ad gave contest 
+Tried few Problems on codeforces and gave contest 
 - Q1. Kosukoke assignment... [submission](https://codeforces.com/contest/2033/submission/287994410) 
 - Q2. A bit of a Construction [Submission](https://codeforces.com/contest/1957/submission/287997498) 
 - Q3 [Quests](https://codeforces.com/contest/1914/submission/288057849)
