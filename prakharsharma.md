@@ -35,3 +35,16 @@ Tried few Problems of previous contests
 - Q5. tried question but got wrong answer on test 2 , will think of another approach now after 1-2 days [A true Battle](https://codeforces.com/contest/2030/submission/287907684)
 - Q6. [The legend of Freya the frog](https://codeforces.com/contest/2009/submission/287946263)
 <br>
+
+### Day 4
+26 October 2024
+
+Tried few Problems on codeforces ad gave contest 
+- Q1. Kosukoke assignment... [submission](https://codeforces.com/contest/2033/submission/287994410) 
+- Q2. A bit of a Construction [Submission](https://codeforces.com/contest/1957/submission/287997498) 
+- Q3 [Quests](https://codeforces.com/contest/1914/submission/288057849)
+- Q4. [Sakurako field trip](https://codeforces.com/contest/2033/submission/288069206)
+- Q5.  [Bouquet-Easy version](https://codeforces.com/contest/1995/submission/288104253)
+- Q6.  gave today's contest.. was able to successfully do 1st question ..2nd i got wrong on test 2 ..3rd i thought of a approach using recursion but time got over .. will implement it now <br>[A.Rectangle Arrangement](https://codeforces.com/contest/2027/submission/288120948) <br> [B. stalin sort](https://codeforces.com/contest/2027/submission/288147493)
+<br>
+
