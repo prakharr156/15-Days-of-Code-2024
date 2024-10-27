@@ -48,3 +48,14 @@ Tried few Problems on codeforces and gave contest
 - Q6.  gave today's contest.. was able to successfully do 1st question ..2nd i got wrong on test 2 ..3rd i thought of a approach using recursion but time got over .. will implement it now <br>[A.Rectangle Arrangement](https://codeforces.com/contest/2027/submission/288120948) <br> [B. stalin sort](https://codeforces.com/contest/2027/submission/288147493)
 <br>
 
+
+### Day 5
+27 October 2024
+
+Tried few Problems on codeforces of 1100-1200 rating and gave contest
+- Q1.  [Negatives and positives](https://codeforces.com/contest/1791/submission/288203529) 
+- Q2.  [Eating candies](https://codeforces.com/contest/1669/submission/288263315) 
+- Q3  got wrong answer on test 5 ..will think of correcting it [2 letter strings](https://codeforces.com/contest/1669/submission/288285816)
+- Q4. [maximum sum](https://codeforces.com/contest/1832/submission/288202588)
+- Q5. gave today's contest.. was able to successfully do 2 questions.. <br>[A.sliding](https://codeforces.com/contest/2035/submission/288306220) <br> [B. everone loves tres](https://codeforces.com/contest/2035/submission/288320068)
+<br>
