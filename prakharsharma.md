@@ -59,3 +59,13 @@ Tried few Problems on codeforces of 1100-1200 rating and gave contest
 - Q4. [maximum sum](https://codeforces.com/contest/1832/submission/288202588)
 - Q5. gave today's contest.. was able to successfully do 2 questions.. <br>[A.sliding](https://codeforces.com/contest/2035/submission/288306220) <br> [B. everone loves tres](https://codeforces.com/contest/2035/submission/288320068)
 <br>
+
+
+### Day 6
+28 October 2024
+
+Tried few Problems on codeforces and gave contest
+- Q1.  [Paint the array](https://codeforces.com/contest/1618/submission/288397807) 
+- Q2.  [Lunatic never content](https://codeforces.com/contest/1826/submission/288399643) 
+- Q3. gave today's contest.. was able to successfully do 1 question only .. <br>[A.perpendicular segments](https://codeforces.com/contest/2026/submission/288566510) <br>
+- watched striver tree series L29
