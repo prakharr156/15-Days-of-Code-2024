@@ -69,3 +69,16 @@ Tried few Problems on codeforces and gave contest
 - Q2.  [Lunatic never content](https://codeforces.com/contest/1826/submission/288399643) 
 - Q3. gave today's contest.. was able to successfully do 1 question only .. <br>[A.perpendicular segments](https://codeforces.com/contest/2026/submission/288566510) <br>
 - watched striver tree series L29
+
+
+### Day 7
+29 October 2024
+
+Tried few Problems on codeforces  of 1100 rating and upsolved yesterdays contest
+- Q1.  [Robin hood and town](https://codeforces.com/contest/2014/submission/288705801) 
+- Q2.  [black cells](https://codeforces.com/contest/2026/submission/288723528) 
+- Q3  [action figures](https://codeforces.com/contest/2026/submission/288738226)
+- Q4. [a true battle](https://codeforces.com/contest/2030/submission/288787059)
+- Q5. got wrong answer on test 2 ..will correct it...[jojo incredible adventures](https://codeforces.com/contest/1820/submission/288645272)
+<br>
+
