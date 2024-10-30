@@ -82,3 +82,17 @@ Tried few Problems on codeforces  of 1100 rating and upsolved yesterdays contest
 - Q5. got wrong answer on test 2 ..will correct it...[jojo incredible adventures](https://codeforces.com/contest/1820/submission/288645272)
 <br>
 
+
+### Day 8
+30 October 2024
+
+Tried few Problems on codeforces  of 1100 rating and gave codechef contest
+- Q1.  [splitting items](https://codeforces.com/contest/2004/submission/288806134) 
+- Q2.  [even positions](https://codeforces.com/contest/1997/submission/288814361) 
+- Q3  [parity and sum](https://codeforces.com/contest/1993/submission/288819027)
+- Q4. [large addition](https://codeforces.com/contest/1984/submission/288913196)
+- Q5. codechef starter 158 div 3  solved 3 ques <br>
+- [A. Even vs Odd Divisors](https://www.codechef.com/viewsolution/1102790245) <br>
+- [B. Largest Subsequence](https://www.codechef.com/viewsolution/1102823080)<br>
+- [C. Multiply 2 to Minimize](https://www.codechef.com/viewsolution/1102895374)<br>
+
