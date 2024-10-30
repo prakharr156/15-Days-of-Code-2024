@@ -92,7 +92,7 @@ Tried few Problems on codeforces  of 1100 rating and gave codechef contest
 - Q3  [parity and sum](https://codeforces.com/contest/1993/submission/288819027)
 - Q4. [large addition](https://codeforces.com/contest/1984/submission/288913196)
 - Q5. codechef starter 158 div 3  solved 3 ques <br>
-- [A. Even vs Odd Divisors](https://www.codechef.com/viewsolution/1102790245) <br>
-- [B. Largest Subsequence](https://www.codechef.com/viewsolution/1102823080)<br>
-- [C. Multiply 2 to Minimize](https://www.codechef.com/viewsolution/1102895374)<br>
+- [P1. Even vs Odd Divisors](https://www.codechef.com/viewsolution/1102790245) <br>
+- [P2. Largest Subsequence](https://www.codechef.com/viewsolution/1102823080)<br>
+- [P5. Multiply 2 to Minimize](https://www.codechef.com/viewsolution/1102895374)<br>
 
