@@ -96,3 +96,14 @@ Tried few Problems on codeforces  of 1100 rating and gave codechef contest
 - [P2. Largest Subsequence](https://www.codechef.com/viewsolution/1102823080)<br>
 - [P5. Multiply 2 to Minimize](https://www.codechef.com/viewsolution/1102895374)<br>
 
+
+### Day 9
+31 October 2024
+
+Tried only 1  Problem on codeforces  of 1100 rating due to festival and upsolved codechef contest
+- Q1.  [B - Increase/Decrease/Copy](https://codeforces.com/contest/1976/submission/289000073) 
+- Q2.  [P3. XOR Smaller](https://www.codechef.com/viewsolution/1103093596) 
+- Q3  [P4. buying game](https://www.codechef.com/viewsolution/1103137798)
+- watched striver tree series L30
+
+
