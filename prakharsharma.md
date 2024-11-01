@@ -107,3 +107,18 @@ Tried only 1  Problem on codeforces  of 1100 rating due to festival and upsolved
 - watched striver tree series L30
 
 
+
+
+### Day 10
+1 November 2024
+
+Tried few Problems on codeforces  of 1100 rating and gave codeforces contest
+- Q1.  [array Fix](https://codeforces.com/contest/1948/submission/289091481) 
+- Q2.  [summation game](https://codeforces.com/contest/1920/submission/289115036) 
+- Q3  [chip and ribbon](https://codeforces.com/contest/1901/submission/289131797)
+- Q4. [getting points](https://codeforces.com/contest/1902/submission/289170944)
+- Q5.gave today's contest..cf div 2.. was able to successfully do 2 questions.. <br>
+[A.circuit](https://codeforces.com/contest/2032/submission/289197135) <br>
+[B. medians](https://codeforces.com/contest/2032/submission/289247117)
+<br>
+
