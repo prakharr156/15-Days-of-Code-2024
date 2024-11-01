@@ -119,6 +119,6 @@ Tried few Problems on codeforces  of 1100 rating and gave codeforces contest
 - Q4. [getting points](https://codeforces.com/contest/1902/submission/289170944)
 - Q5.gave today's contest..cf div 2.. was able to successfully do 2 questions.. <br>
 [A.circuit](https://codeforces.com/contest/2032/submission/289197135) <br>
-[B. medians](https://codeforces.com/contest/2032/submission/289247117)
+[B. medians](https://codeforces.com/contest/2032/submission/289254108)
 <br>
 
