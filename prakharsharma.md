@@ -122,3 +122,12 @@ Tried few Problems on codeforces  of 1100 rating and gave codeforces contest
 [B. medians](https://codeforces.com/contest/2032/submission/289254108)
 <br>
 
+
+### Day 11
+2 November 2024
+
+Tried few Problems on codeforces  of 1100 rating 
+- Q1.  [split sort](https://codeforces.com/contest/1863/submission/289326238) 
+- Q2.  [maximum rounding](https://codeforces.com/contest/1857/submission/289329976) 
+- Q3  [lamps](https://codeforces.com/contest/1839/submission/289335304)
+- Q4. [binary cut](https://codeforces.com/contest/1971/submission/289619179)
