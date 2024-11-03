@@ -137,7 +137,7 @@ Tried few Problems on codeforces  of 1100 rating
 3 November 2024
 
 Tried few Problems on codeforces  of 1100 rating 
-- Q1.  non-coprime slit ...first got wrong answer on test 2 due to missing onne edge case then corrected it [wrong on test 2](https://codeforces.com/problemset/submission/1872/289687636) [accepted](https://codeforces.com/problemset/submission/1872/289687888)
+- Q1.  non-coprime split ...first got wrong answer on test 2 due to missing onne edge case then corrected it [wrong on test 2](https://codeforces.com/problemset/submission/1872/289687636) [accepted](https://codeforces.com/problemset/submission/1872/289687888)
 - Q2.  [MEX repetition](https://codeforces.com/problemset/submission/1863/289694151) 
 - Q3  [sum of two numbers](https://codeforces.com/problemset/submission/1788/289700500)
 - Q4. [make array good](https://codeforces.com/problemset/submission/1762/289818398)
