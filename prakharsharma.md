@@ -147,3 +147,16 @@ Tried few Problems on codeforces  of 1100 rating
 4 November 2024
 
 - I could not study anything because i went to lucknow from kanpur to a relatives's house and then I had my train at night to bhopal.
+
+
+
+### Day 14
+4 November 2024
+
+Went to college ad then Tried few Problems on codeforces of 1100 rating 
+- Q1. [subsequence addition...easy version](https://codeforces.com/problemset/submission/1807/290099536)
+- Q2. [subsequence addition..hard version](https://codeforces.com/problemset/submission/1807/290099852)
+- Q3  [Chaya calendar](https://codeforces.com/problemset/submission/1932/290126516)
+- Q4. [minimise permutation subarrays](https://codeforces.com/problemset/submission/1838/290133280)
+- Q5. [line](https://codeforces.com/problemset/submission/1722/290147477)
+  
