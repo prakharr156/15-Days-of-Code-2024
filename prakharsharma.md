@@ -141,3 +141,9 @@ Tried few Problems on codeforces  of 1100 rating
 - Q2.  [MEX repetition](https://codeforces.com/problemset/submission/1863/289694151) 
 - Q3  [sum of two numbers](https://codeforces.com/problemset/submission/1788/289700500)
 - Q4. [make array good](https://codeforces.com/problemset/submission/1762/289818398)
+
+
+### Day 13
+4 November 2024
+
+- I could not study anything because i went to lucknow from kanpur to a relatives's house and then I had my train at night to bhopal.
