@@ -151,7 +151,7 @@ Tried few Problems on codeforces  of 1100 rating
 
 
 ### Day 14
-4 November 2024
+5 November 2024
 
 Went to college ad then Tried few Problems on codeforces of 1100 rating 
 - Q1. [subsequence addition...easy version](https://codeforces.com/problemset/submission/1807/290099536)
