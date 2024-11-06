@@ -160,3 +160,16 @@ Went to college ad then Tried few Problems on codeforces of 1100 rating
 - Q4. [minimise permutation subarrays](https://codeforces.com/problemset/submission/1838/290133280)
 - Q5. [line](https://codeforces.com/problemset/submission/1722/290147477)
   
+
+
+### Day 15
+6 November 2024
+
+Went to college ad then Tried few Problems on codeforces of 1100 rating  and gave codechef contest 159
+- Q1. [coprime](https://codeforces.com/contest/1742/submission/290222587)
+- Q2. [Array Recovery](https://codeforces.com/contest/1739/submission/290233226)
+- Q3  [eating queries](https://codeforces.com/contest/1676/submission/290303435)
+-  gave contest..successfully solved 2 questions ..and upsolved 1 question later 
+-  [card game](https://www.codechef.com/viewsolution/1104487789)
+-  [election](https://www.codechef.com/viewsolution/1104510746)
+-  [chess color](https://www.codechef.com/viewsolution/1104771025)
